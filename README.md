@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there 👋 Welcome to my personal README. 
+I'm a system administrator working towards one-day becoming a DEVOPS Security Engineer.
+Currently I'm working on finishing my Associates in CS, with Python being the main language I've been using. 
+
+I'm eager about learning new things so I never shy away from a challenge.
+
+One of the most thrilling and exciting experiences I've had was joining the Volunteer Fire & Rescue Department in my community. It was incredibly rewarding to serve and help those in need in my community. 
+The thrill of responding to a house fire and racing against time to help those in danger was unlike anything I’ve ever experienced. It was a powerful reminder of the importance of being there for others in their most vulnerable moments.
+
+I look forward to mentorship and learning from others!
 
 <!--
 **saugon26/saugon26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
